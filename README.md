@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Warreneter
 - 👀 I’m interested in any type of tech or coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Github.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Github and more.
 - 📫 How to reach me: Discord.
 
 <!---
