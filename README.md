@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Warreneter
-- 👀 I’m interested in any type of tech or coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Github and more.
-- 📫 How to reach me: Discord.
+Hi 👋. I'm Warreneter, a current member of Robotics Team 2472. I'm currently learning Java and more, and if you want to contact me, my email is warrenle2014@gmail.com.
 
 <!---
 Warreneter/Warreneter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
