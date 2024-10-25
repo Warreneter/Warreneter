@@ -1,4 +1,4 @@
-Hi 👋. I'm Warreneter, a new member of Robotics Team 2472. I'm currently learning Java and more, and if you want to contact me, my email is warrenle2014@gmail.com.
+Hi 👋. I'm Warreneter, a current member of the Robotics Team 2472. I'm  learning Java and other programming skills. If you want to contact me, my email is warrenle2014@gmail.com.
 
 <!---
 Warreneter/Warreneter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
